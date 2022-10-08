@@ -1,10 +1,3 @@
-# :tv: Video y Presentacion
-- [TBD]
-- [TBD]
-- [TBD]
-
-# Funcional
-
 # :hammer_and_wrench:  Requisitos
 - Java 11
 - IDE

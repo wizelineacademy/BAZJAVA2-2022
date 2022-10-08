@@ -1,8 +1,3 @@
-# :tv: Video y Presentacion
-
-- [Lunes 29 Agosto - GIT](https://drive.google.com/file/d/1_8IvmSu4LQeKWfdeZWZ2N-awlzkzL3PB/view?usp=sharing)
-- [Grabacion Lunes 29 Agosto](https://drive.google.com/file/d/1Bn4dx9wmRW4nHjMDri_cLIsjuvqJYIOl/view?usp=sharing)
-
 # :computer:  Actividades 
 
 ## Inicialización de segumiento a git y git status 

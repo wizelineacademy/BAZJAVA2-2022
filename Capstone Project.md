@@ -5,11 +5,6 @@ El proyecto está confirmado de los ejercicios y tareas que se van realizando en
 
 # Entregables
 ## Fechas de Entrega
-1º: Lunes 12 Septiembre 6 p.m.
-
-2º: Lunes 26 Septiembre 9 a.m.
-
-3º: Lunes 10 Octubre 9 a.m.
 
 
 ## Entregable 1

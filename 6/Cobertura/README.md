@@ -1,6 +1,3 @@
-# Cobertura de código
-Recursos y pasos importantes para el curso
-
 # :computer:  Actividades
 
 ## Pre-requisitos de la sesión en vivo :exclamation:

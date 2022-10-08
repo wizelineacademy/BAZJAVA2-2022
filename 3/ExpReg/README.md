@@ -1,8 +1,3 @@
-# :tv: Video y Presentacion
-- [TBD]
-- [TBD]
-- [TBD]
-
 # Expresiones Regulares [Java Regex]
 
 # :hammer_and_wrench:  Requisitos

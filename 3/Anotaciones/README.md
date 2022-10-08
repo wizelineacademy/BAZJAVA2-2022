@@ -1,8 +1,3 @@
-# :tv: Video y Presentacion
-- [TBD]
-- [TBD]
-- [TBD]
-
 # Anotaciones
 
 # :hammer_and_wrench:  Requisitos

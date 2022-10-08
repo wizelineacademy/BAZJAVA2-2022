@@ -1,8 +1,3 @@
-# :tv: Video y Presentacion
-- [TBD]
-- [TBD]
-- [TBD]
-
 # Tipos de Datos
 
 # :hammer_and_wrench:  Requisitos

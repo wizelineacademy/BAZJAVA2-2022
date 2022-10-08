@@ -1,10 +1,3 @@
-# :tv: Video y Presentacion
-
-- [Miércoles 7 Sep/MongoDB I](https://drive.google.com/file/d/1k1z-d4NDT-JLexr5aDWUh7lxQvMRHcpI/view?usp=sharing)
-- [Grabacion Miércoles 7 Sep]
-- [Jueves 8 Sep/MongoDB II](https://drive.google.com/file/d/17V-G4R7STZQAWfIw6oxpBUnetZJVUCdp/view?usp=sharing)
-- [Grabacion Jueves 8 Sep]
-
 # MongoDB
 
 ## Pre-requisitos de la sesión en vivo
