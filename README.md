@@ -3,17 +3,23 @@
 # I. Bienvenida
 Bienvenido a tu capacitación de Microservicios en Java/Spring Boot con JUnit.
 
+[Liga Acceso Telegram grupal](https://t.me/+qoRIX6OWI_xjYWIx)
+Importante unirse ya que toda la comunicación del curso se lleva por este medio.
+
+![Calendario](https://github.com/wizelineacademy/BAZiOS2-2022/blob/main/Java2.png)
+
+
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
 
-[Calendario](https://drive.google.com/file/d/15-7a1k_56Ko_VGKm1mYOmP0FB41K8z2l/view?usp=sharing)
-
-[Liga Acceso Telegram grupal](https://t.me/+kUGHdrqPeCFkYjNh)
-
 **Sesiones en Vivo** 
 - Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Lunes y Miércoles: 9am en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/84778203669) en caso de no poderse presentar
-- Martes, Jueves y Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/84778203669)
+- Lunes y Miércoles: 9am en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/84778203669?pwd=Q2RPd0wvVHNWYitDaHVNcm9EaU8vZz09) en caso de no poderse presentar.
+- Martes, Jueves y Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/84778203669?pwd=Q2RPd0wvVHNWYitDaHVNcm9EaU8vZz09)
+
+- En las sesiones en línea, es **obligatorio** tener la cámara prendida.
+- Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
@@ -82,15 +88,19 @@ En [esta liga](Grabaciones%20y%20Presentaciones.md) encontrarás todas las graba
 
 # IV. Proyecto Final (Capstone Project)
 **Objetivo**
-Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
+Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo.
+- Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
+- Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
-[Aqui encontrarás](Capstone%20Project.md) las instrucciones para completar tu proyecto final.
+[Aquí](Capstone%20Project.md) encontrarás las instrucciones para completar tu proyecto final.
 
+Para la revisión de tu Capstone Project se te asignará un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
 # V. Agenda tu mentoria 📆
-Si deseas una tener una mentoria personalizada en línea con alguno de los mentores:
+Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
+Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/seCaheZXytZafU9x7) al final de tu mentoría.
 
 - [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz) (GIT, Microservicios, RestAPIs, Serverless, MongoDB)
 - [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz) (GIT, Microservicios, RestAPIs, Serverless, MongoDB, Java)
@@ -100,7 +110,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
-- **BAZ Superapp**: En este [documento](https://docs.google.com/spreadsheets/d/1s5AqSzC3n0YEgiJry5rCa152tEzda5TJtMzM9VEfJ4U/edit?usp=sharing) encontrarás la información sobre el proyecto asignado según tu gremio y líder de gremio.
+- **BAZ Superapp**: 
 - **BANCA DIGITAL**: Siguen con sus actividades habituales asignadas por su líder de gremio
 
 # VII. Contacto Wizeline Academy
