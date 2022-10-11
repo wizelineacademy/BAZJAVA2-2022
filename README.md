@@ -62,46 +62,46 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ### Semana 1 - Fundamentos
    1. [Git](Semana 1/GIT/README.md) 
-   2. [Microservicios](1/Microservicios/README.md)
-   3. [RestAPIs](1/RestAPIs/README.md)
-   4. [Serverless](1/Serverless/README.md)
+   2. [Microservicios](Semana 1/Microservicios/README.md)
+   3. [RestAPIs](Semana 1/RestAPIs/README.md)
+   4. [Serverless](Semana 1/Serverless/README.md)
 
 ### Semana 2 - Fundamentos
-   1. [Kafka](2/Kafka/README.md)
-   2. [MongoDB](2/MongoDB/README.md)
+   1. [Kafka](Semana 2/Kafka/README.md)
+   2. [MongoDB](Semana 2/MongoDB/README.md)
 
 ### Semana 3 - Java
-   1. [Programacion Orientada a Objetos](3/POO/README.md)
-   2. [Tipos de Datos](3/TiposDatos/README.md)
-   3. [Expresiones Regulares](3/ExpReg/README.md)
-   4. [Colecciones](3/Colecciones/README.md)
-   5. [API de Fechas y Tiempos](3/FechasTiempos/README.md)
-   6. [Programación Concurrente](3/Concurrencia/README.md)
-   7. [Excepciones](3/Excepciones/README.md)
-   8. [Anotaciones](3/Anotaciones/README.md)
-   9. [Optional API](3/Optional/README.md)
-   10. [Genericos](3/Genericos/README.md)
-   11. [Programación Funcional](3/Funcional/README.md)
-   12. [Cifrado Síncrono y Asíncrono](3/Cifrado/README.md)
-   13. [Manejo SSL y Certificados](3/SSL/README.md)
+   1. [Programacion Orientada a Objetos](Semana 3/POO/README.md)
+   2. [Tipos de Datos](Semana 3/TiposDatos/README.md)
+   3. [Expresiones Regulares](Semana 3/ExpReg/README.md)
+   4. [Colecciones](Semana 3/Colecciones/README.md)
+   5. [API de Fechas y Tiempos](Semana 3/FechasTiempos/README.md)
+   6. [Programación Concurrente](Semana 3/Concurrencia/README.md)
+   7. [Excepciones](Semana 3/Excepciones/README.md)
+   8. [Anotaciones](Semana 3/Anotaciones/README.md)
+   9. [Optional API](Semana 3/Optional/README.md)
+   10. [Genericos](Semana 3/Genericos/README.md)
+   11. [Programación Funcional](Semana 3/Funcional/README.md)
+   12. [Cifrado Síncrono y Asíncrono](Semana 3/Cifrado/README.md)
+   13. [Manejo SSL y Certificados](Semana 3/SSL/README.md)
 
 ### Semana 4 - Spring Boot
-   1. [Configuracion Inicial](4/Configuracion/README.md)
-   2. [Spring Core](4/Core/README.md)
-   3. [Spring MVC](4/MVC/README.md)
-   4. [Spring Data](4/JPA/README.md)
-   5. [Spring Security](4/Security/README.md)
-   6. [Actuators](4/Actuators/README.md)
+   1. [Configuracion Inicial](Semana 4/Configuracion/README.md)
+   2. [Spring Core](Semana 4/Core/README.md)
+   3. [Spring MVC](Semana 4/MVC/README.md)
+   4. [Spring Data](Semana 4/JPA/README.md)
+   5. [Spring Security](Semana 4/Security/README.md)
+   6. [Actuators](Semana 4/Actuators/README.md)
 
 ### Semana 5 - Spring Boot
-   1. [Spring Batch](5/Batch/README.md)
-   2. [Integraciones](5/Integraciones/README.md)
-   3. [Patrones de Diseño](5/Patrones/README.md)
+   1. [Spring Batch](Semana 5/Batch/README.md)
+   2. [Integraciones](Semana 5/Integraciones/README.md)
+   3. [Patrones de Diseño](Semana 5/Patrones/README.md)
 
 ### Semana 6 - JUnit
-   1. [Pruebas Unitarias](6/PruebasUnitarias/README.md)
-   2. [Pruebas de Integración](6/PruebasIntegracion/README.md)
-   3. [Cobertura](6/Cobertura/README.md)
+   1. [Pruebas Unitarias](Semana 6/PruebasUnitarias/README.md)
+   2. [Pruebas de Integración](Semana 6/PruebasIntegracion/README.md)
+   3. [Cobertura](Semana 6/Cobertura/README.md)
 
 ## 📺 Grabaciones sesiones y Presentaciones
 
