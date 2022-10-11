@@ -6,7 +6,7 @@ Bienvenido a tu capacitación de Microservicios en Java/Spring Boot con JUnit.
 [Liga Acceso Telegram grupal](https://t.me/+qoRIX6OWI_xjYWIx)
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario](https://github.com/wizelineacademy/BAZiOS2-2022/blob/main/Java2.png)
+![Calendario](https://github.com/wizelineacademy/BAZJAVA2-2022/blob/main/Java2.png)
 
 
 # II. Información general del entrenamiento
