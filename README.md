@@ -102,11 +102,12 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/seCaheZXytZafU9x7) al final de tu mentoría.
 
-- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz) (GIT, Microservicios, RestAPIs, Serverless, MongoDB)
-- [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz) (GIT, Microservicios, RestAPIs, Serverless, MongoDB, Java)
+- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz) (GIT, Docker, RestAPIs, Serverless, MongoDB)
+- [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz) (GIT, Docker, RestAPIs, Serverless, MongoDB, Java)
 - [Mario Cruz](https://calendly.com/mario-cruz-wizeline) (Kafka)
 - [Diana Fernandez](https://calendly.com/dianafernandez-wizeline/mentoria-baz) (MongoDB)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz) (Java, Spring Boot, JUnit)
+- [Marco Robles](https://calendly.com/marco-robles-wize) (GIT, Docker, RestAPIs, MongoDB, Kafka)
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
