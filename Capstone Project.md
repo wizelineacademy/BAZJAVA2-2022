@@ -1,11 +1,34 @@
 
-# El Proyecto
-El proyecto está confirmado de los ejercicios y tareas que se van realizando en las sesiones impartidas a lo largo del curso, por lo que para cada entregable debe enviarse la liga del repositorio creado en el primer día que contendrá cada entregable para su revisión usando este Google Form: https://forms.gle/q4zFogV3ncvM2JE39
+# Capstone Project
+<!-- TOC -->
 
+- [Capstone Project](#capstone-project)
+- [Definición del Proyecto](#definici%C3%B3n-del-proyecto)
+- [Entregables](#entregables)
+    - [Fechas de Entrega](#fechas-de-entrega)
+    - [Entregable 1](#entregable-1)
+        - [Requerimientos y Criterio de Evaluación](#requerimientos-y-criterio-de-evaluaci%C3%B3n)
+    - [Entregable 2](#entregable-2)
+        - [Requerimientos y Criterio de Evaluación](#requerimientos-y-criterio-de-evaluaci%C3%B3n)
+    - [Entregable 3](#entregable-3)
+        - [Para poder considerar completadas las semanas 5 y 6 de entrenamiento debe contemplar lo siguiente:](#para-poder-considerar-completadas-las-semanas-5-y-6-de-entrenamiento-debe-contemplar-lo-siguiente)
+        - [Criterio de Evaluación](#criterio-de-evaluaci%C3%B3n)
+
+<!-- /TOC -->
+
+# Definición del Proyecto
+El proyecto está conformado de ejercicios y tareas que se van realizando en las sesiones impartidas a lo largo del curso. Cada cierto tiempo se debera realizar un entregable abarcando las semanas:
+  - Entregable 1 - Semanas 1 y 2
+  - Entregable 2 - Semanas 3, 4 y 5
+  - Entregable 3 - Semana 6 
+
+Se debera enviar cada Entregable en las fechas indicadas en la sig. sección y para poder tener una `revisión` y `retro-alimentación` se debera enviar la url/liga de tu `Pull Request` a traves del siguiente [formulario](https://forms.gle/tWhu7DGAU3B6GVmU6) lo cual nos indicara que esta listo tu entregable para revisión.
 
 # Entregables
 ## Fechas de Entrega
-
+ - Entregable 1: Miercoles 2 de Noviembre - 2:00pm
+ - Entregable 2: Miercoles 9 de Noviembre - 2:00pm
+ - Entregable 3 (final): Lunes 14 de Noviembre - 2:00pm
 
 ## Entregable 1
 
@@ -19,33 +42,21 @@ El proyecto está confirmado de los ejercicios y tareas que se van realizando en
   - MongoDB
   - Serverless
 
-### Requerimientos
+### Requerimientos y Criterio de Evaluación
 
-- Crear un repositorio en GitHub 
-- Dockerfile ejecutable
-- Archivo de Docker Compose que permita levantar el contendor
-- Colección de Postman realizando una petición de cada tipo (GET, POST, PUT, DELETE, HEAD) a una API pública (por lo menos una de ellas debe ser comprimida)
-- Función Lambda creada en la cuenta que permita la ejecución de código
-- Captura de pantalla de logs en Cloudwatch
-- Captura de pantalla de productor a consumidor en Kafka
-- Base de datos de MongoDB exportada
-- Impresión de pantalla de operaciones CRUD en datos reales de MongoDB
-- Diagrama de clases inicial y diagrama de clases con un patrón de diseño creacional aplicado
-
-### Criterio de Evaluación
 
 | **Tópico**                                                                                                                                                 | **Puntaje** |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Repositorio de GitHub creado                                                                                                                               | 10          |
+| Screenshots para el flujo commit y push: `git branch`, `git add`, `git commit` y `git push`                                                                                                                    | 10          |
+| Pull Request para el `Entregable 1`                                   y archivo `README.md` en el directorio `Entregable 1     `                                                                        | 10          |
 | Dockerfile ejecutable                                                                                                                                      | 10          |
 | Archivo de Docker Compose que permita levantar el contendor                                                                                                | 10          |
 | Colección de Postman realizando una petición de cada tipo a una API pública                                                                                | 10          |
 | Función Lambda creada en la cuenta que permita la ejecución de código                                                                                      | 10          |
 | Captura de pantalla de logs en Cloudwatch                                                                                                                  | 10          |
-| Captura de pantalla de productor a consumidor en Kafka                                                                                                     | 10          |
+| Captura de pantalla de productor a consumidor en Kafka  (con sus particiones)                                                                                                   | 10          |
 | Base de datos de MongoDB exportada                                                                                                                         | 10          |
 | Impresión de pantalla de operaciones CRUD en datos reales de MongoDB                                                                                       | 10          |
-| Diagrama de clases inicial y diagrama de clases con un patrón de diseño creacional aplicado                                                                | 10          |
 | **Total**                                                                                                                                                  | **100**     |
 | **Mínimo Aprobatorio**                                                                                                                                     | **70**      |
 
@@ -57,28 +68,8 @@ El proyecto está confirmado de los ejercicios y tareas que se van realizando en
 - **Temas relacionados**: Semana 3 y 4
   - Java
 
-### Para poder considerar completadas las semanas 3 y 4 de entrenamiento debe contemplar lo siguiente:
-- Proyecto en Java 11 ejecutable por línea de comandos
-- Herencia en una de sus clases
-- Sobrecarga de al menos uno de los métodos de alguna clase
-- Sobrecarga de al menos uno de los constructores de alguna clase
-- Encapsulamiento de al menos una clase
-- Clase interna dentro de al menos una clase 
-- Uso de por lo menos una interfaz de creación propia
-- Uso de por lo menos dos tipos de datos primitivos, dos tipos de datos encapsulados y un tipo de dato abstracto
-- Uso de por lo menos una expresión regular
-- Uso de por lo menos un arreglo, un mapa y una lista
-- Uso de API de Fechas y Tiempos en un método
-- Implementación de concurrencia arrancando por lo menos tres hilos y utilizando su ejecución
-- Uso de por lo menos una excepción de creación propia
-- Uso de al menos tres anotaciones
-- Uso de por lo menos 1 Interfaz Funcional
-- Uso de por lo menos 1 función Lambda y asignada a una Interfaz Funcional
-- Uso de por lo menos 1 Stream de datos
-- Uso de por lo menos 2 operaciones intermedias y 2 tipos de colectores   
-- Uso de por lo menos dos patrones de diseño creacionales
-
-### Criterio de Evaluación
+### Requerimientos y Criterio de Evaluación 
+Para poder considerar completadas las semanas 3 y 4 de entrenamiento debe contemplar lo siguiente:
 
 | **Tópico**                                                                                  | **Puntaje** |
 |---------------------------------------------------------------------------------------------|-------------|
@@ -92,7 +83,7 @@ El proyecto está confirmado de los ejercicios y tareas que se van realizando en
 | Uso de por lo menos dos tipos de datos primitivos                                           | 5           |
 | Uso de dos tipos de datos encapsulados                                                      | 5           |
 | Uso de un tipo de dato abstracto                                                            | 5           |
-| Uso de por lo menos una expresión regular                                                   | 10          |
+| Uso de por lo menos una expresión regular                                                   | 5          |
 | Uso de por lo menos un arreglo                                                              | 5           |
 | Uso de por lo menos un mapa                                                                 | 5           |
 | Uso de por lo menos una lista                                                               | 5           |
@@ -105,9 +96,12 @@ El proyecto está confirmado de los ejercicios y tareas que se van realizando en
 | Uso de por lo menos 1 Stream de datos                                                       | 5           |
 | Uso de por lo menos 2 operaciones intermedias y 2 tipos de colectores                       | 10          |
 | Uso de por lo menos dos patrones de diseño creacionales                                     | 30          |
-| **Total**                                                                                   | **200**     |
+| Hacer uso de `.gitignore` (ver [Nota 1])                                      | 5          |
+**Total**                                                                                   | **200**     |
 | **Mínimo aprobatorio**                                                                      | **160**     |
 
+[Nota 1] 
+Se evaluara no tener `archivos basura y directorios inecesarios` como archivos compilados de Java (`bin/`) o archivos de configuración de editor de texto `.vscode` o `.idea`
 
 ## Entregable 3
 
