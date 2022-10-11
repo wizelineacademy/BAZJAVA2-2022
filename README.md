@@ -1,13 +1,34 @@
 # Digital Skills Accelerator Training - Microservicios en Java/Spring Boot con JUnit
 
+<!-- Table of Content -->
+
+- [I. Bienvenida, Telegram y Calendario](#i-bienvenida)
+- [II. Información general del entrenamiento](#ii-informaci%C3%B3n-general-del-entrenamiento)
+- [III. Curricula del entrenamiento](#iii-curricula-del-entrenamiento)
+    - [:bookmark_tabs: Sesiones](#bookmark_tabs-sesiones)
+        - [Semana 1 - Fundamentos](#semana-1---fundamentos)
+        - [Semana 2 - Fundamentos](#semana-2---fundamentos)
+        - [Semana 3 - Java](#semana-3---java)
+        - [Semana 4 - Spring Boot](#semana-4---spring-boot)
+        - [Semana 5 - Spring Boot](#semana-5---spring-boot)
+        - [Semana 6 - JUnit](#semana-6---junit)
+    - [📺 Grabaciones sesiones y Presentaciones](#-grabaciones-sesiones-y-presentaciones)
+- [IV. Proyecto Final Capstone Project](#iv-proyecto-final-capstone-project)
+- [V. Agenda tu mentoria 📆](#v-agenda-tu-mentoria-)
+- [VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL Asignado por Líder de Gremio](#vi-proyecto-baz-superapp--banca-digital-asignado-por-l%C3%ADder-de-gremio)
+- [VII. Contacto Wizeline Academy](#vii-contacto-wizeline-academy)
+<!---------------------->
+
 # I. Bienvenida
-Bienvenido a tu capacitación de Microservicios en Java/Spring Boot con JUnit.
+Bienvenido a tu capacitación de **Microservicios en Java/Spring Boot con JUnit.**
 
 [Liga Acceso Telegram grupal](https://t.me/+qoRIX6OWI_xjYWIx)
+
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
 ![Calendario](https://github.com/wizelineacademy/BAZJAVA2-2022/blob/main/Java2.png)
 
+En este calendario veras las sesiones que estan agendadas durante este curso.
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
