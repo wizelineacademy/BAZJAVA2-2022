@@ -26,9 +26,9 @@ Bienvenido a tu capacitación de **Microservicios en Java/Spring Boot con JUnit.
 
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
- [Calendario](/imagenes/calendario.png)
+![Calendario](https://github.com/wizelineacademy/BAZJAVA2-2022/blob/main/Java2.png)
 
- En este calendario veras las sesiones que estan agendadas durante este curso.
+En este calendario veras las sesiones que estan agendadas durante este curso.
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
