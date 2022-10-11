@@ -61,7 +61,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1 - Fundamentos
-   1. [Git](1/GIT/README.md) 
+   1. [Git](Semana 1/GIT/README.md) 
    2. [Microservicios](1/Microservicios/README.md)
    3. [RestAPIs](1/RestAPIs/README.md)
    4. [Serverless](1/Serverless/README.md)
