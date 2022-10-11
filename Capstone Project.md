@@ -1,8 +1,8 @@
 
-# Capstone Project
+# Proyecto Final
 <!-- TOC -->
 
-- [Capstone Project](#capstone-project)
+- [Proyecto Final](#proyecto-final)
 - [Definición del Proyecto](#definici%C3%B3n-del-proyecto)
 - [Entregables](#entregables)
     - [Fechas de Entrega](#fechas-de-entrega)
