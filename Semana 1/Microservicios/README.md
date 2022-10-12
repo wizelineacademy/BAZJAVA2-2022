@@ -52,18 +52,22 @@ def hello():
 
 
 ### 3. Definimos el archivo de requerimientos 
-Dentro de la misma carpeta crearemos un archivo llamado requirements.txt con el siguiente contenido:
+Dentro de la misma carpeta crearemos un archivo llamado `requirements.txt`
 
-```
-flask
-```
 *Nota: Estos archivos puedes hacerlos desde una interfaz grafica o puedes hacerlo desde tu terminal.*
+
 ```
 touch requirements.txt
 ```
 ```
 nano requirements.txt
 ```
+
+Dentro de `requirements.txt` agregamos:
+```
+flask
+```
+
 ### 4. Definimos el archivo `Dockerfile`
 
 ```
