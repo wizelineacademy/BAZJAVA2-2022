@@ -132,12 +132,14 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/seCaheZXytZ
 ### Kafka (Semana 2)
 - [Marco Robles](https://calendly.com/marco-robles-wize)
 - [Mario Cruz](https://calendly.com/mario-cruz-wizeline)
+- [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
 
 ### MongoDB (Semana 2)
 - [Marco Robles](https://calendly.com/marco-robles-wize)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 - [Diana Fernandez](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
 - [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz)
+- [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
 
 ### Java (Semana 3)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
@@ -145,17 +147,20 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/seCaheZXytZ
 - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
 - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
 - [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz)
+- [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
 
 ### Spring Boot (Semanas 4 y 5)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 - [Diana Fernandez](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
 - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
 - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
+- [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
 
 ### JUnit (Semana 6)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
 - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
+- [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
