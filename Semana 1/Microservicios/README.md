@@ -64,7 +64,13 @@ touch requirements.txt
 ```
 nano requirements.txt
 ```
-### 4. Definimos el archivo Dockerfile
+### 4. Definimos el archivo `Dockerfile`
+
+```
+nano Dockerfile
+```
+Y ponemos lo siguiente dentro de `Dockerfile`
+
 ```
 # syntax=docker/dockerfile:1
 FROM python:3.7-alpine
@@ -131,12 +137,16 @@ docker ps
 
 ``` 
 docker stop trusting_beaver
+
+# docker stop <nombre_contenedor>
 ```
 
 ### 12. Volvemos a instanciar, ahora exponiendo el puerto en el que está corriendo la aplicación
 
 ``` 
 docker run --publish 8080:5000 python-docker
+
+# docker run --publish <puerto_maquina_local>:<puerto_contenedor_docker>
 ```
 
 Volvemos a probar la aplicacion
@@ -144,15 +154,21 @@ Volvemos a probar la aplicacion
 ```
 curl --request GET \
 --url http://localhost:8080/
+
+# o abrir el navegador en http://localhost:8080/
 ```
 
 Detenemos de nuevo el contenedor
 
 ``` 
 docker stop trusting_beaver
+
+docker stop <nombre_contenedor>
 ```
 
-### 12. Ejecutamos el contenedor en modo deatached
+### 12. Ejecutamos el contenedor en modo deatached 
+
+Correr el contenedor en `segundo plano` 
 
 ``` 
 docker run -d -p 8080:5000 python-docker
@@ -160,7 +176,7 @@ docker run -d -p 8080:5000 python-docker
 
 En este modo la sesion de terminal no quedará asociada al proceso de docker ejecutando el contenedor
 
-Volvemos a detener el contenedor, listando primero para obtener el nombre
+Volvemos a detener el contenedor `docker stop <nombre_contenedor>`, listando primero para obtener el nombre
 
 ### 13. Reiniciaremos un contenedor
 
@@ -174,23 +190,29 @@ Reiniciamos el contenedor
 
 ```
 docker restart trusting_beaver
+
+# docker restart <nombre_contenedor>
 ```
 
 ### 14. Eliminamos el contenedor
 
 ``` 
 docker rm trusting_beaver modest_khayyam lucid_greider
+
+# docker rm <nombre_contenedor_1> <nombre_contenedor_2> <nombre_contenedor_3>
 ```
 
 ### 15. Ejecutamos el contenedor asignandole un nombre y un parametro de autolimpieza
 
 ``` 
-docker run --rm -d -p 8080:5000 --name springboot-server java-docker
+docker run --rm -d -p 8080:5000 --name python-server python-docker
+
+# docker run --rm -d -p 8080:5000 --name <nombre_a_asignar_contenedor> <nombre_imagen>
 ```
 
 En este punto podemos detener el contenedor
 
-### 16. Modificamos el archivo app.py, con el siguiente contenido:
+### 16. Modificamos el archivo `app.py`, con el siguiente contenido:
 
 ``` 
 import time
@@ -218,14 +240,14 @@ def hello():
     return 'Hello World! I have been seen {} times.\n'.format(count)
 ```
 
-### 16. Agregamos redis al archivo de requirements.txt
+### 16. Agregamos redis al archivo de `requirements.txt`
 
 ``` 
 flask
 redis
 ```
 
-### 17. Agregamos el archivo docker-compose.yml
+### 17. Agregamos el archivo `docker-compose.yml
 
 ``` 
 version: "3.9"
