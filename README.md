@@ -123,12 +123,36 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/seCaheZXytZafU9x7) al final de tu mentoría.
 
-- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz) (GIT, Docker, RestAPIs, Serverless, MongoDB)
-- [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz) (GIT, Docker, RestAPIs, Serverless, MongoDB, Java)
-- [Mario Cruz](https://calendly.com/mario-cruz-wizeline) (Kafka)
-- [Diana Fernandez](https://calendly.com/dianafernandez-wizeline/mentoria-baz) (MongoDB)
-- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz) (Java, Spring Boot, JUnit)
-- [Marco Robles](https://calendly.com/marco-robles-wize) (GIT, Docker, RestAPIs, MongoDB, Kafka)
+### GIT, Microservicios, RestAPIs, Serverless (Semana 1)
+- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)
+- [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz)
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
+
+### Kafka (Semana 2)
+- [Mario Cruz](https://calendly.com/mario-cruz-wizeline)
+
+### MongoDB (Semana 2)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
+- [Diana Fernandez](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
+- [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz)
+
+### Java (Semana 3)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
+- [Diana Fernandez](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
+- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
+- [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz)
+
+### Spring Boot (Semanas 4 y 5)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
+- [Diana Fernandez](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
+- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
+
+### JUnit (Semana 6)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
+- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
