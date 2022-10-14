@@ -26,7 +26,7 @@ Bienvenido a tu capacitación de **Microservicios en Java/Spring Boot con JUnit.
 
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario](https://github.com/wizelineacademy/BAZJAVA2-2022/blob/main/Java2.png)
+![Calendario](https://github.com/wizelineacademy/BAZJAVA2-2022/blob/main/2Java.png)
 
 En este calendario veras las sesiones que estan agendadas durante este curso.
 
