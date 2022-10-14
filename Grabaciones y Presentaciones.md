@@ -11,4 +11,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 13 OCt - Serverless](https://drive.google.com/file/d/1kJTmItIBeuELIU8IkKukGOMcG-5-_6Qa/view?usp=sharing)
 - 📺 [Grabacion Jueves 13 Oct](https://drive.google.com/file/d/1H-7we-UYQ7VDkvTKyYhj3LTAzX-RdB7E/view?usp=sharing)
 - [Viernes 14 OCt - Serverless](https://drive.google.com/file/d/1kJTmItIBeuELIU8IkKukGOMcG-5-_6Qa/view?usp=sharing)
-- 📺 [Grabacion Viernes 14 Oct]()
+- 📺 [Grabacion Viernes 14 Oct](https://drive.google.com/file/d/1IK2GDakHa9pyTuFkSz6Q1nufgqnmJ-5l/view?usp=sharing)
