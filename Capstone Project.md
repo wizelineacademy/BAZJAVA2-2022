@@ -52,7 +52,7 @@ Se debera enviar cada Entregable en las fechas indicadas en la sig. sección y p
 | Dockerfile ejecutable                                                                                                                                      | 10          |
 | Archivo de Docker Compose que permita levantar el contendor                                                                                                | 10          |
 | Colección de Postman realizando una petición de cada tipo a una API pública                                                                                | 10          |
-| Función Lambda creada en la cuenta que permita la ejecución de código                                                                                      | 10          |
+| Impresiones de pantalla de Función Lambda creada en la cuenta que permita la ejecución de código y REST Endpoint de API Gateway asociada a la funcion de lambda                                                                                    | 10          |
 | Captura de pantalla de logs en Cloudwatch                                                                                                                  | 10          |
 | Captura de pantalla de productor a consumidor en Kafka  (con sus particiones)                                                                                                   | 10          |
 | Base de datos de MongoDB exportada                                                                                                                         | 10          |
@@ -96,12 +96,9 @@ Para poder considerar completadas las semanas 3 y 4 de entrenamiento debe contem
 | Uso de por lo menos 1 Stream de datos                                                       | 5           |
 | Uso de por lo menos 2 operaciones intermedias y 2 tipos de colectores                       | 10          |
 | Uso de por lo menos dos patrones de diseño creacionales                                     | 30          |
-| Hacer uso de `.gitignore` (ver [Nota 1])                                      | 5          |
+| Hacer uso de `.gitignore` (Se evaluara no tener `archivos basura y directorios inecesarios` como archivos compilados de Java (`bin/`) o archivos de configuración de editor de texto `.vscode` o `.idea`)                                      | 5          |
 **Total**                                                                                   | **200**     |
 | **Mínimo aprobatorio**                                                                      | **160**     |
-
-[Nota 1] 
-Se evaluara no tener `archivos basura y directorios inecesarios` como archivos compilados de Java (`bin/`) o archivos de configuración de editor de texto `.vscode` o `.idea`
 
 ## Entregable 3
 
