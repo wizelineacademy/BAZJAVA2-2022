@@ -47,12 +47,12 @@ Se debera enviar cada Entregable en las fechas indicadas en la sig. sección y p
 
 | **Tópico**                                                                                                                                                 | **Puntaje** |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Screenshots para el flujo commit y push: `git branch`, `git add`, `git commit` y `git push`                                                                                                                    | 10          |
-| Pull Request para el `Entregable 1`                                   y archivo `README.md` en el directorio `Entregable 1     `                                                                        | 10          |
+| Screenshots para el flujo commit y push: `git status`, `git branch`, `git add`, `git commit` y `git push`                                                                                                                    | 10          |
+| Pull Request para el `Entregable 1`                                   y archivo `README.md` en el directorio `<Nombre_Alumno>`                                                                        | 10          |
 | Dockerfile ejecutable                                                                                                                                      | 10          |
 | Archivo de Docker Compose que permita levantar el contendor                                                                                                | 10          |
-| Colección de Postman realizando una petición de cada tipo a una API pública                                                                                | 10          |
-| Impresiones de pantalla de Función Lambda creada en la cuenta que permita la ejecución de código y REST Endpoint de API Gateway asociada a la funcion de lambda                                                                                    | 10          |
+| Colección de Postman realizando una petición de cada tipo (`GET`, `POST`, `PUT`, `PATCH`, `DEL`) a una API pública y una `screenshot` mostrando las variables de ambiente o a nivel de colección                                                                              | 10          |
+| Impresiones de pantalla de Función Lambda creada en la cuenta que permita la ejecución de código y REST Endpoint de API Gateway asociada a la funcion de lambda (ciclo de endpoint)                                                                                    | 10          |
 | Captura de pantalla de logs en Cloudwatch                                                                                                                  | 10          |
 | Captura de pantalla de productor a consumidor en Kafka  (con sus particiones)                                                                                                   | 10          |
 | Base de datos de MongoDB exportada                                                                                                                         | 10          |
