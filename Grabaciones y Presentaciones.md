@@ -16,4 +16,3 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 2
 - [Lunes 17 Oct - Kafka](https://drive.google.com/file/d/1bnCAxnOfR3VPBx0gz_0sdHPvSG5MpuIr/view?usp=sharing)
 - 📺 [Grabacion Lunes 17 Oct](https://drive.google.com/file/d/1u5IXK8yrF5wM-EyXxdG8ez7_r-nsBtu6/view?usp=sharing)
-
