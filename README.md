@@ -159,25 +159,27 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
 
 ### Java (Semana 3)
+- [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 - [Diana Fernandez](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
 - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
-- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
 - [Francisco Mojica](https://calendly.com/paco-mojica/mentoria-baz)
-- [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
+
 
 ### Spring Boot (Semanas 4 y 5)
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
+- [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 - [Diana Fernandez](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
 - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
-- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
-- [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
+
 
 ### JUnit (Semana 6)
-- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
 - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
 - [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/seCaheZXytZafU9x7) al final de tu mentoría.
 
