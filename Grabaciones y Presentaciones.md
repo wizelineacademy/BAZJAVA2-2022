@@ -12,3 +12,8 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Jueves 13 Oct](https://drive.google.com/file/d/1H-7we-UYQ7VDkvTKyYhj3LTAzX-RdB7E/view?usp=sharing)
 - [Viernes 14 OCt - Serverless](https://drive.google.com/file/d/1kJTmItIBeuELIU8IkKukGOMcG-5-_6Qa/view?usp=sharing)
 - 📺 [Grabacion Viernes 14 Oct](https://drive.google.com/file/d/1IK2GDakHa9pyTuFkSz6Q1nufgqnmJ-5l/view?usp=sharing)
+
+# Semana 2
+- [Lunes 17 Oct - Kafka](https://drive.google.com/file/d/1bnCAxnOfR3VPBx0gz_0sdHPvSG5MpuIr/view?usp=sharing)
+- 📺 [Grabacion Lunes 17 Oct 1](https://drive.google.com/file/d/1u5IXK8yrF5wM-EyXxdG8ez7_r-nsBtu6/view?usp=sharing)
+- 📺 [Grabacion Lunes 17 Oct 2](https://drive.google.com/file/d/1rc8I5prIeLWbk6NkB2jR6dxl24lQDs8f/view?usp=sharing)
