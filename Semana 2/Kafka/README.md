@@ -69,6 +69,16 @@ bin/kafka-topics.sh --create --topic <topic-name> --bootstrap-server localhost:<
 Al crear el TOPIC nos saldra un log similar a:
 `Created topic <topic-name>`
 
+Para validar que se creo el TOPIC
+```
+bin/kafka-topics.sh --describe --topic <topic-name> --bootstrap-server localhost:<kafka-server-port>
+```
+
+Para crear un TOPIC con particiones en especifico usar el comando
+```
+bin/kafka-topics.sh --create --topic <topic-name> --partitions <#_particiones> --bootstrap-server localhost:<kafka-server-port>
+```
+
 ### PASO 3: Escribir eventos en el TOPIC
 
 ```bash
