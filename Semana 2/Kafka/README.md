@@ -69,9 +69,13 @@ bin/kafka-topics.sh --create --topic <topic-name> --bootstrap-server localhost:<
 Al crear el TOPIC nos saldra un log similar a:
 `Created topic <topic-name>`
 
-Para validar que se creo el TOPIC
+Para validar que se creo el TOPIC podemos utilizar el comando `--describe` que nos indica como esta creado el topico o el comando `--list` que nos muestra la lista de topicos creados en Kafka
 ```
+# describe
 bin/kafka-topics.sh --describe --topic <topic-name> --bootstrap-server localhost:<kafka-server-port>
+
+# list
+bin/kafka-topics.sh --list --bootstrap-server localhost:<kafka-server-port>
 ```
 
 Para crear un TOPIC con particiones en especifico usar el comando
