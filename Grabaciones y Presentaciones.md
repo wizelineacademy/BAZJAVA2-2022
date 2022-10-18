@@ -17,7 +17,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Lunes 17 Oct - Kafka](https://drive.google.com/file/d/1bnCAxnOfR3VPBx0gz_0sdHPvSG5MpuIr/view?usp=sharing)
 - 📺 [Grabacion Lunes 17 Oct](https://drive.google.com/file/d/1u5IXK8yrF5wM-EyXxdG8ez7_r-nsBtu6/view?usp=sharing)
 - [Martes 18 Oct/Kafka II]
-- 📺 [Grabacion Martes 18 Oct]()
+- 📺 [Grabacion Martes 18 Oct](https://drive.google.com/file/d/1WAfMZu-HMzRtpEPgshFkg6XkQGs1sqDJ/view?usp=sharing)
 - [Miércoles 19 Oct/MongoDB I]()
 - 📺 [Grabacion Miércoles 19 Oct]()
 - [Jueves 20 Oct/MongoDB II]()
