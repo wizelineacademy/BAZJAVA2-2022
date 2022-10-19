@@ -26,7 +26,7 @@ Se debera enviar cada Entregable en las fechas indicadas en la sig. sección y p
 
 # Entregables
 ## Fechas de Entrega
- - Entregable 1: Lunes 24 de Octrubre - 6:00pm
+ - Entregable 1: Lunes 24 de Octubre - 6:00pm
  - Entregable 2: Lunes 7 de Noviembre - 6:00pm
  - Entregable 3: Lunes 21 de Noviembre - 6:00pm
 
