@@ -21,7 +21,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 19 Oct/MongoDB I](https://drive.google.com/file/d/19H5CklcerEasTz5cGfD3RktyFmU0_D7Y/view?usp=sharing)
 - 📺 [Grabacion Miércoles 19 Oct](https://drive.google.com/file/d/1cHQlrgKU_BvX5-s-4ZBJVjkermDcMkBo/view?usp=sharing)
 - [Jueves 20 Oct/MongoDB II](https://drive.google.com/file/d/1l4wRUh0VN6nyW94tvLjgnOP_AGn3FC6w/view?usp=sharing)
-- 📺 [Grabacion Jueves 20 Oct]()
-- [Viernes 21 Oct/Mongo]()
+- 📺 [Grabacion Jueves 20 Oct](https://drive.google.com/file/d/1Ms7Z8Gr72zJydITX3_fsqIkhPoceAbYW/view?usp=sharing)
+- [Viernes 21 Oct/MongoDB III](https://drive.google.com/file/d/16pyBU8U2FZlWD_ewOuuPZhKLus4OgJ0n/view?usp=sharing)
 - 📺 [Grabacion Viernes 21 Oct]()
 
