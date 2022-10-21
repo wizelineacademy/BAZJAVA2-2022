@@ -56,7 +56,7 @@ Se debera enviar cada Entregable en las fechas indicadas en la sig. sección y p
 | Captura de pantalla de logs en Cloudwatch                                                                                                                  | 10          |
 | Capturas de pantalla de la consola y la terminal de productor y consumidor y captura de pantalla con el `--describe` del tópico mostrando las particiones                                                                                                  | 10          |
 | Base de datos de MongoDB exportada                                                                                                                         | 10          |
-| Impresión de pantalla de operaciones CRUD en datos reales de MongoDB                                                                                       | 10          |
+| Impresión de pantalla de operaciones CRUD (find con query selector, update con query selector, insert) en datos reales de MongoDB                                                                                       | 10          |
 | **Total**                                                                                                                                                  | **100**     |
 | **Mínimo Aprobatorio**                                                                                                                                     | **80**      |
 
