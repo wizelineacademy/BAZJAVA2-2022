@@ -24,7 +24,7 @@ Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.15+8-LTS-149, mixed mode)
 ```
 
 
-## Temario Día 1
+## Temario
 
 ### Clases
 
@@ -41,9 +41,6 @@ Función e implementación de métodos sobrecargados.
 ### Sobrecarga de constructores
 
 Función e implementación de constructores sobrecargados.
-
-
-## Temario Día 2
 
 ### Encapsulamiento
 
