@@ -10,7 +10,7 @@
 
 # :pencil: Actividad
 ## Actualizar método para agregar usuarios
-> Esta actividad continua a la descrita en la clase anterior: [README](https://github.com/wizelineacademy/BAZJAVA12022/blob/main/4/FechasTiempos/README.md)
+> Esta actividad continua a la descrita en la clase anterior: [README](../FechasTiempos/README.md)
 1. Primero vamos a agregar la anotación de Override a nuestro método de concurrencia _run()_
     ```java
     @Override

@@ -95,3 +95,5 @@ Referencia: [MongoDB: creación y utilización de índices](https://www.genbeta.
 Referencia: [dbHash](https://www.mongodb.com/docs/manual/reference/command/dbHash/)
 ### Replica Set
 Referencia: [Replication](https://www.mongodb.com/docs/manual/replication/)
+### Mejores Practicas de Diseño
+Referencia: [Diseño](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/)
