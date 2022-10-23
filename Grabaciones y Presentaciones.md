@@ -23,7 +23,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 20 Oct/MongoDB II](https://drive.google.com/file/d/1l4wRUh0VN6nyW94tvLjgnOP_AGn3FC6w/view?usp=sharing)
 - 📺 [Grabacion Jueves 20 Oct](https://drive.google.com/file/d/1Ms7Z8Gr72zJydITX3_fsqIkhPoceAbYW/view?usp=sharing)
 - [Viernes 21 Oct/MongoDB III](https://drive.google.com/file/d/16pyBU8U2FZlWD_ewOuuPZhKLus4OgJ0n/view?usp=sharing)
-- 📺 [Grabacion Viernes 21 Oct]()
+- 📺 [Grabacion Viernes 21 Oct](https://drive.google.com/file/d/1W_A843Un1BczbLYttvCWMOvzRrilPdww/view?usp=sharing)
 
 # Semana 3
 - [Lunes 24 Oct/Java I](https://drive.google.com/file/d/1lqaxAF_UlqB3BXpt0FTcFqhsTASXRMke/view?usp=sharing)
