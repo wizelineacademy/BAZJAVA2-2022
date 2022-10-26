@@ -10,7 +10,7 @@
 - [bcprov-jdk18on-172.jar](https://www.bouncycastle.org/download/bcprov-jdk18on-172.jar)
 
 # :pencil: Actividad
-## Crear un certificado y utilizarlo en el cifrado de un nuevo endpoint
+## Crear un endpoint en donde obtengamos las cuentas de manera cifrada
 > Esta actividad continua a la descrita en la clase anterior: [README](../Genericos/README.md)
 1. Agregamos la librería Security y BouncyCastle la cual utilizaremos en este ejercicio:
     ```java
