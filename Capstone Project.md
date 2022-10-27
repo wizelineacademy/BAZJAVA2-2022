@@ -1,7 +1,5 @@
 
 # Proyecto Final
-<!-- TOC -->
-
 - [Proyecto Final](#proyecto-final)
 - [Definición del Proyecto](#definici%C3%B3n-del-proyecto)
 - [Entregables](#entregables)
@@ -14,15 +12,13 @@
         - [Para poder considerar completadas las semanas 5 y 6 de entrenamiento debe contemplar lo siguiente:](#para-poder-considerar-completadas-las-semanas-5-y-6-de-entrenamiento-debe-contemplar-lo-siguiente)
         - [Criterio de Evaluación](#criterio-de-evaluaci%C3%B3n)
 
-<!-- /TOC -->
-
 # Definición del Proyecto
-El proyecto está conformado de ejercicios y tareas que se van realizando en las sesiones impartidas a lo largo del curso. Cada cierto tiempo se debera realizar un entregable abarcando las semanas:
+El proyecto está conformado de ejercicios y tareas que se van realizando en las sesiones impartidas a lo largo del curso. Cada cierto tiempo se debera realizar un entregable abarcando los siguientes periodos:
   - Entregable 1 - Semanas 1 y 2
   - Entregable 2 - Semanas 3, 4 y 5
   - Entregable 3 - Semana 6 
 
-Se debera enviar cada Entregable en las fechas indicadas en la sig. sección y para poder tener una `revisión` y `retro-alimentación` se debera enviar la url/liga de tu `Pull Request` a traves del siguiente [formulario](https://forms.gle/tWhu7DGAU3B6GVmU6) lo cual nos indicara que esta listo tu entregable para revisión.
+Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección y para poder tener una `revisión` y `retroalimentación` se deberá enviar la URL de tu `Pull Request` a través del siguiente [formulario](https://forms.gle/tWhu7DGAU3B6GVmU6), lo que nos indicará que está listo tu entregable para revisión.
 
 # Entregables
 ## Fechas de Entrega
@@ -31,8 +27,6 @@ Se debera enviar cada Entregable en las fechas indicadas en la sig. sección y p
  - Entregable 3: Lunes 21 de Noviembre - 6:00pm
 
 ## Entregable 1
-
-- **Objetivo** 
 
 - **Temas relacionados**: Semana 1 y 2
   - Github
@@ -43,31 +37,29 @@ Se debera enviar cada Entregable en las fechas indicadas en la sig. sección y p
   - Serverless
 
 ### Requerimientos y Criterio de Evaluación
+Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contemplar lo siguiente:
 
-
-| **Tópico**                                                                                                                                                 | **Puntaje** |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Screenshots para el flujo commit y push: `git status`, `git branch`, `git add`, `git commit` y `git push`                                                                                                                    | 10          |
-| Pull Request para el `Entregable 1`                                   y archivo `README.md` en el directorio `<Nombre_Alumno>`                                                                        | 10          |
-| Dockerfile ejecutable                                                                                                                                      | 10          |
-| Archivo de Docker Compose que permita levantar el contendor                                                                                                | 10          |
-| Colección de Postman realizando una petición de cada tipo (`GET`, `POST`, `PUT`, `PATCH`, `DEL`) a una API pública y una `screenshot` mostrando las variables de ambiente o a nivel de colección                                                                              | 10          |
-| Impresiones de pantalla de Función Lambda creada en la cuenta que permita la ejecución de código y REST Endpoint de API Gateway asociada a la funcion de lambda (ciclo de endpoint)                                                                                    | 10          |
-| Captura de pantalla de logs en Cloudwatch                                                                                                                  | 10          |
-| Capturas de pantalla de la consola y la terminal de productor y consumidor y captura de pantalla con el `--describe` del tópico mostrando las particiones                                                                                                  | 10          |
-| Base de datos de MongoDB exportada                                                                                                                         | 10          |
-| Impresión de pantalla de operaciones CRUD (find con query selector, update con query selector, insert) en datos reales de MongoDB                                                                                       | 10          |
-| **Total**                                                                                                                                                  | **100**     |
-| **Mínimo Aprobatorio**                                                                                                                                     | **80**      |
+| **Tópico**                                                                                                                          | **Puntaje** |
+|-------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Screenshots para el flujo commit y push: `git status`, `git branch`, `git add`, `git commit` y `git push`                           | 10          |
+| Pull Request para el `Entregable 1`                                   y archivo `README.md` en el directorio `<Nombre_Alumno>`      | 10          |
+| Dockerfile ejecutable                                                                                                               | 10          |
+| Archivo de Docker Compose que permita levantar el contendor                                                                         | 10          |
+| Colección de Postman realizando una petición de cada tipo (`GET`, `POST`, `PUT`, `PATCH`, `DEL`) a una API pública y una captura de pantalla mostrando las variables de ambiente o a nivel de colección                                                                                                                             | 10          |
+| Impresiones de pantalla de la Función Lambda creada en la cuenta que permita la ejecución del código y REST Endpoint de la API Gateway asociada a la funcion Lambda                                                                                                                                | 10          |
+| Captura de pantalla de logs en Cloudwatch                                                                                           | 10          |
+| Capturas de pantalla de las terminales de productor y consumidor y del comando `--describe` del tópico mostrando las particiones    | 10          |
+| Base de datos de MongoDB exportada                                                                                                  | 10          |
+| Impresión de pantalla de operaciones CRUD (find con query selector, update con query selector, insert) en datos reales de MongoDB   | 10          |
+| **Total**                                                                                                                           | **100**     |
+| **Mínimo Aprobatorio**                                                                                                              | **80**      |
 
 
 ## Entregable 2
 
-- **Objetivo** 
-
 - **Temas relacionados**: Semana 3 y 4
   - Java
-
+  - Spring Boot
 ### Requerimientos y Criterio de Evaluación 
 Para poder considerar completadas las semanas 3 y 4 de entrenamiento debe contemplar lo siguiente:
 
@@ -80,63 +72,55 @@ Para poder considerar completadas las semanas 3 y 4 de entrenamiento debe contem
 | Encapsulamiento de al menos una clase                                                       | 5           |
 | Clase interna dentro de al menos una clase                                                  | 5           |
 | Uso de por lo menos una interfaz de creación propia                                         | 10          |
-| Uso de por lo menos dos tipos de datos primitivos                                           | 5           |
-| Uso de dos tipos de datos encapsulados                                                      | 5           |
-| Uso de un tipo de dato abstracto                                                            | 5           |
-| Uso de por lo menos una expresión regular                                                   | 5          |
+| Uso de por lo menos una expresión regular                                                   | 5           |
 | Uso de por lo menos un arreglo                                                              | 5           |
 | Uso de por lo menos un mapa                                                                 | 5           |
 | Uso de por lo menos una lista                                                               | 5           |
 | Uso de API de Fechas y Tiempos en un método                                                 | 10          |
-| Implementación de concurrencia arrancando por lo menos tres hilos y utilizando su ejecución | 20          |
+| Implementación de concurrencia ejecutando hilos y utilizando el resultado generado          | 20          |
 | Uso de por lo menos una excepción de creación propia                                        | 20          |
 | Uso de al menos tres anotaciones                                                            | 5           |
+| Uso de por lo menos 1 Optional                                                              | 10          |
+| Uso de por lo menos 1 tipos de dato genérico                                                | 10          |
 | Uso de por lo menos 1 Interfaz Funcional                                                    | 10          |
 | Uso de por lo menos 1 función Lambda y asignada a una Interfaz Funcional                    | 10          |
 | Uso de por lo menos 1 Stream de datos                                                       | 5           |
-| Uso de por lo menos 2 operaciones intermedias y 2 tipos de colectores                       | 10          |
-| Uso de por lo menos dos patrones de diseño creacionales                                     | 30          |
-| Hacer uso de `.gitignore` (Se evaluara no tener `archivos basura y directorios inecesarios` como archivos compilados de Java (`bin/`) o archivos de configuración de editor de texto `.vscode` o `.idea`)                                      | 5          |
-**Total**                                                                                   | **200**     |
-| **Mínimo aprobatorio**                                                                      | **160**     |
+| Uso de por lo menos 2 operaciones intermedias y 2 tipos de colectores en un Stream          | 10          |
+| Uso de por lo menos 1 algoritmo de cifrado                                                  | 10          |
+| Uso de por lo menos 1 proveedor de cifrado                                                  | 10          |
+| Uso de por lo menos 1 funcionalidad de cifrado                                              | 10          |
+| Uso de por lo menos 1 llave de cifrado                                                      | 10          |
+| Hacer uso de `.gitignore` (Se evaluara no tener `archivos basura y directorios inecesarios` como archivos compilados de Java (`bin/`) o archivos de configuración de editor de texto `.vscode` o `.idea`)                                                                                        | 5           |
+| Captura de pantalla de proyecto generado por Spring Initializr                              | 5           |
+| Dockerfile desplegando en el contenedor                                                     | 10          |
+| Archivo desplegable usando Gradle o Maven                                                   | 5           |
+| Consumo de API pública usando RestTemplate                                                  | 5           |
+| Conversión del contenido consumido usando JAXB o Jackson                                    | 5           |
+| API generada por Spring MVC con un endpoint de cada tipo (GET, POST, PUT, DELETE)           | 10          |
+| Colección de Postman para consumir la API generada                                          | 5           |
+| Creación de enlace con MongoDB usando Spring Data JPA                                       | 10          |
+| Lectura de MongoDB                                                                          | 10          |
+| Escritura en MongoDB                                                                        | 10          |
+| Actualización en MongoDB                                                                    | 10          |
+| Borrado en MongoDB                                                                          | 10          |
+| Exponer un endpoint que genere un token de autenticación para dos tipos de usuarios (roles) | 10          |
+| Segurizar dos endpoints con acceso basado en roles protegidos con el token generado         | 10          |
+| Exponer la información del proyecto mediante el endpoint Info de Actuator                   | 10          |
+| Exponer tres endpoints de Actuator (e.g. metrics, mappings, loggers)                        | 10          |
+| **Total**                                                                                   | **350**     |
+| **Mínimo aprobatorio**                                                                      | **280**     |
 
 ## Entregable 3
-
-- **Objetivo** 
 
 - **Temas relacionados**: Semana 5 y 6
   - Spring Boot
   - JUnit
 
-### Para poder considerar completadas las semanas 5 y 6 de entrenamiento debe contemplar lo siguiente:
-- Proyecto generado por Spring Initializr y desplegable en el contenedor creado en el primer entregable
-- Todas sus propiedades deben estar descritas en el archivo “application.properties” con el formato de nombre correcto
-- Construirse mediante su manejador de dependencias (Gradle o Maven)
-- La estructura del proyecto debe ser coherente y acorde a buenas prácticas
-- Debe utilizar RestTemplate para consumir por lo menos una API pública y convertir el resultado a un POJO utilizando JAXB o Jackson
-- Generar una API utilizando Spring MVC y debe tener por lo menos un endpoint de cada tipo (GET, POST, PUT, DELETE); este debe ser consumible por medio de Postman y la colección para ello debe proveerse en el entregable final
-- Comunicarse con la base de datos de MongoDB creada en el primer entregable a través de Spring Data JPA con MongoTemplate y poder realizar operaciones CRUD (creación, lectura, actualización y borrado de registros)
-- Crear por lo menos una prueba unitaria de cada endpoint generado con Spring MVC, de cada operación realizada con Spring Data JPA y de cada integración empleando Mockito generando logs en la ejecución de cada una y contemplar Happy Path y Edge Cases, usando JaCoCo o SonarCloud como herramientas de cobertura de pruebas
-
-### Criterio de Evaluación
+### Requerimientos y Criterio de Evaluación 
+Para poder considerar completadas las semanas 5 y 6 de entrenamiento debe contemplar lo siguiente:
 
 | **Tópico**                                                        | **Puntaje** |
 |-------------------------------------------------------------------|-------------|
-| Captura de pantalla de proyecto generado por Spring Initializr    | 5           |
-| Dockerfile desplegando en el contenedor                           | 10          |
-| Archivo application.properties con el formato correcto            | 5           |
-| Archivo desplegable usando Gradle o Maven                         | 5           |
-| Estructura del proyecto correcta                                  | 5           |
-| Consumo de API pública usando RestTemplate                        | 5           |
-| Conversión del contenido consumido usando JAXB o Jackson          | 5           |
-| API generada por Spring MVC con un endpoint de cada tipo          | 10          |
-| Colección de Postman para consumir la API generada                | 5           |
-| Creación de enlace con MongoDB usando Spring Data JPA             | 10          |
-| Uso de MongoTemplate                                              | 5           |
-| Lectura de MongoDB usando MongoTemplate                           | 10          |
-| Escritura en MongoDB usando MongoTemplate                         | 10          |
-| Actualización en MongoDB usando MongoTemplate                     | 10          |
-| Borrado en MongoDB usando MongoTemplate                           | 10          |
 | Prueba unitaria de cada endpoint de la API                        | 20          |
 | Prueba unitaria de cada operación CRUD                            | 20          |
 | Uso de Mockito en cada prueba                                     | 10          |
@@ -144,5 +128,5 @@ Para poder considerar completadas las semanas 3 y 4 de entrenamiento debe contem
 | Pruebas para Happy Path                                           | 10          |
 | Pruebas para cada Edge Case                                       | 10          |
 | Implementación de JaCoCo o SonarCloud (mínimo 70% de cobertura)   | 10          |
-| **Total**                                                         | **200**     |
-| **Mínimo aprobatorio**                                            | **160**     |
+| **Total**                                                         | **90**      |
+| **Mínimo aprobatorio**                                            | **90**      |
