@@ -33,7 +33,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 26 Oct/Java III](https://drive.google.com/file/d/1deh_FhV2iNsN2t__0NYsIFHqs-ptHCsO/view?usp=sharing)
 - 📺 [Miércoles 26 Oct](https://drive.google.com/file/d/1aoyLnQcQfXnA3cAWG2LNIpTuNE3mXof2/view?usp=sharing)
 - [Jueves 27 Oct/Java IV](https://drive.google.com/file/d/1Xw7N8B59ZgQlNTuSTLGSpS_x9-Sas9hF/view?usp=sharing)
-- 📺 [Grabacion Jueves 27 Oct]()
+- 📺 [Grabacion Jueves 27 Oct](https://drive.google.com/file/d/1vD4182vqJih_f-niiOU1wA_f5h7QTJk0/view?usp=sharing)
 -  [Viernes 28 Oct/Java IV](https://drive.google.com/file/d/17xY6pqxgMPNrUvcRlxLFGMnHJP2ULGyb/view?usp=sharing)
 - 📺 [Grabacion Viernes 28 Oct]()
 
