@@ -35,7 +35,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 27 Oct/Java IV](https://drive.google.com/file/d/1Xw7N8B59ZgQlNTuSTLGSpS_x9-Sas9hF/view?usp=sharing)
 - 📺 [Grabacion Jueves 27 Oct](https://drive.google.com/file/d/1vD4182vqJih_f-niiOU1wA_f5h7QTJk0/view?usp=sharing)
 -  [Viernes 28 Oct/Java IV](https://drive.google.com/file/d/17xY6pqxgMPNrUvcRlxLFGMnHJP2ULGyb/view?usp=sharing)
-- 📺 [Grabacion Viernes 28 Oct]()
+- 📺 [Grabacion Viernes 28 Oct](https://drive.google.com/file/d/1uN54bEX7UUXTyR-oP34frPZ4NZJiq_LX/view?usp=sharing)
 
 # Semana 4
 - [Lunes 31 Oct/Spring Boot I Configuración inicial](https://drive.google.com/file/d/1JwTWDxJcfxqc1H1KqodDaaJ-twqxB8_b/view?usp=sharing)
