@@ -38,7 +38,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 28 Oct]()
 
 # Semana 4
-- [Lunes 31 Oct/Spring Boot I Coonfiguración inicial](https://drive.google.com/file/d/1JwTWDxJcfxqc1H1KqodDaaJ-twqxB8_b/view?usp=sharing)
+- [Lunes 31 Oct/Spring Boot I Configuración inicial](https://drive.google.com/file/d/1JwTWDxJcfxqc1H1KqodDaaJ-twqxB8_b/view?usp=sharing)
 - 📺 [Grabacion Lunes 31 Oct]()
 - [Martes 1 Nov/Spring Boot II Java Spring Core I](https://drive.google.com/file/d/1TaajnI0F1Kt5IyIqB23-g0UhqR0To-mf/view?usp=sharing)
 - 📺 [Grabacion Martes 1 Nov]()
