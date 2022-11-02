@@ -43,7 +43,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 1 Nov/Spring Boot II Java Spring Core I](https://drive.google.com/file/d/1TaajnI0F1Kt5IyIqB23-g0UhqR0To-mf/view?usp=sharing)
 - 📺 [Grabacion Martes 1 Nov](https://drive.google.com/file/d/1rASGVfDKTqRZcapm0eFtMuLqNv8A6AwM/view?usp=sharing)
 - [Miércoles 2 Nov/Spring Boot III Spring MVC I](https://drive.google.com/file/d/1RA1X4ZDvq8fJYFmW8Xye4XB8kHwLFIZ9/view?usp=sharing)
-- 📺 [Miércoles 2 Nov]()
+- 📺 [Miércoles 2 Nov](https://drive.google.com/file/d/1FnK8OSi9KzwK9SHQlyK3GZl7ILJ1yEe0/view?usp=sharing)
 - [Jueves 3 Nov/Spring Boot IV Spring Data](https://drive.google.com/file/d/122-k-lFIpRn7zw8Mo3HVNmFtPn5RMJ2Q/view?usp=sharing)
 - 📺 [Grabacion Jueves 3 Nov]()
 -  [Viernes 4 Nov/Spring Boot V Spring Security & Actuators](https://drive.google.com/file/d/1pXcrI2hZffGGppyN21kJfAzQNNQ9d9FA/view?usp=sharing)
