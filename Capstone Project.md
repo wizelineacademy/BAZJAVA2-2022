@@ -92,10 +92,9 @@ Para poder considerar completadas las semanas 3 y 4 de entrenamiento debe contem
 | Uso de por lo menos 1 llave de cifrado                                                      | 10          |
 | Hacer uso de `.gitignore` (Se evaluara no tener `archivos basura y directorios inecesarios` como archivos compilados de Java (`bin/`) o archivos de configuración de editor de texto `.vscode` o `.idea`)                                                                                        | 5           |
 | Captura de pantalla de proyecto generado por Spring Initializr                              | 5           |
-| Dockerfile desplegando en el contenedor                                                     | 10          |
 | Archivo desplegable usando Gradle o Maven                                                   | 5           |
-| Consumo de API pública usando RestTemplate                                                  | 5           |
-| Conversión del contenido consumido usando JAXB o Jackson                                    | 5           |
+| Consumo de API pública usando RestTemplate                                                  | 10          |
+| Conversión del contenido consumido usando JAXB o Jackson                                    | 10          |
 | API generada por Spring MVC con un endpoint de cada tipo (GET, POST, PUT, DELETE)           | 10          |
 | Colección de Postman para consumir la API generada                                          | 5           |
 | Creación de enlace con MongoDB usando Spring Data JPA                                       | 10          |
