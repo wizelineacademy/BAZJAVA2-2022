@@ -97,6 +97,12 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    1. [Spring Batch](Semana%205/Batch/README.md)
    2. [Integraciones](Semana%205/Integraciones/README.md)
    3. [Patrones de Diseño](Semana%205/Patrones/README.md)
+   
+      3.1 [Creacion](Semana%205/Patrones/CreationalPatterns/README.md)
+      
+      3.2 [Comportamiento](Semana%205/Patrones/BehavioralPatterns/README.md)
+
+      3.3 [Arquitectura](Semana%205/Patrones/ArchitecturalPatterns/README.md)
 
 ### Semana 6 - JUnit
    1. [Pruebas Unitarias](Semana%206/PruebasUnitarias/README.md)
