@@ -55,7 +55,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 8 Nov/ Spring Boot Integraciones](https://docs.google.com/presentation/d/1XOQFOWwlfhyQJqulUCMfzQoTcx65qSpEtSQaABv01wI/edit?usp=share_link)
 - 📺 [Grabación Martes 8 Nov]()
 - [Miércoles 9 Nov/Design Patterns I](https://docs.google.com/presentation/d/1xkwhEKALvJvCjfpmMxpJiZJftQlc2-3jVThj99pp5Jo/edit?usp=share_link)
-- 📺 [Grabación Miércoles 9 Nov]()
+- 📺 [Grabación Miércoles 9 Nov](https://drive.google.com/file/d/1tl_AqHHtUFdK-x8LpUU_rdc8yeaChL4d/view?usp=sharing)
 - [Jueves 10 Nov/Design Patterns II](https://docs.google.com/presentation/d/1-7WUk0S7XN0qnNxTw5uYodQtCZuJTqMIpBnETUgMc30/edit?usp=share_link)
 - 📺 [Grabación Jueves 10 Nov]()
 -  [Viernes 11 Nov/Design Patterns III](https://docs.google.com/presentation/d/12fwl6ytC9mrdYrH7XYB0waym-KfS5099N6S9fM80jLo/edit?usp=sharing)
