@@ -118,14 +118,23 @@ Para poder considerar completadas las semanas 3 y 4 de entrenamiento debe contem
 ### Requerimientos y Criterio de Evaluación 
 Para poder considerar completadas las semanas 5 y 6 de entrenamiento debe contemplar lo siguiente:
 
-| **Tópico**                                                        | **Puntaje** |
-|-------------------------------------------------------------------|-------------|
-| Prueba unitaria de cada endpoint de la API                        | 20          |
-| Prueba unitaria de cada operación CRUD                            | 20          |
-| Uso de Mockito en cada prueba                                     | 10          |
-| Generación de logs por prueba                                     | 10          |
-| Pruebas para Happy Path                                           | 10          |
-| Pruebas para cada Edge Case                                       | 10          |
-| Implementación de JaCoCo o SonarCloud (mínimo 70% de cobertura)   | 10          |
-| **Total**                                                         | **90**      |
-| **Mínimo aprobatorio**                                            | **90**      |
+| **Tópico**                                                                            | **Puntaje** |
+|---------------------------------------------------------------------------------------|-------------|
+| Implementación de un Job con Spring Batch usando un Reader, un Processor y un Writer  | 30          |
+| Uso de Dockerfile para desplegar la aplicación en un contenedor                       | 10          |
+| Creación de contrato de API usando Swagger (OpenAPI) en un controlador                | 20          |
+| Creación de un consumidor de Kafka                                                    | 10          |
+| Creación de un productor de Kafka                                                     | 10          |
+| Configuración de la comunicación entre productor y consumidor de Kafka                | 20          |
+| Implementación de un patrón de diseño de creación                                     | 30          |
+| Implementación de un patrón de diseño de comportamiento                               | 30          |
+| Implementación del patrón de diseño "Throttling"                                      | 10          |
+| Prueba unitaria de cada endpoint de la API                                            | 20          |
+| Prueba unitaria de cada operación CRUD                                                | 20          |
+| Uso de Mockito en cada prueba                                                         | 10          |
+| Generación de logs por prueba                                                         | 10          |
+| Pruebas para Happy Path                                                               | 20          |
+| Pruebas para cada Edge Case                                                           | 20          |
+| Implementación de JaCoCo o SonarCloud (mínimo 70% de cobertura)                       | 30          |
+| **Total**                                                                             | **300**     |
+| **Mínimo aprobatorio**                                                                | **240**     |
