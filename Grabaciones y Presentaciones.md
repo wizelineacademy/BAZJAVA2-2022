@@ -73,4 +73,3 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 -  [Viernes 18 Nov/]()
 - 📺 [Grabación Viernes 18 Nov]()
 
-
