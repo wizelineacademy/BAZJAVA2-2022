@@ -113,7 +113,10 @@ Para poder considerar completadas las semanas 3 y 4 de entrenamiento debe contem
 
 - **Temas relacionados**: Semana 5 y 6
   - Spring Boot
+  - Integraciones (Docker, OpenAPI, Kafka)
+  - Patrones de Diseño
   - JUnit
+  - SonarCloud
 
 ### Requerimientos y Criterio de Evaluación 
 Para poder considerar completadas las semanas 5 y 6 de entrenamiento debe contemplar lo siguiente:
