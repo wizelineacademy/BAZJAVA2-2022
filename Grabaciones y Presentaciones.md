@@ -51,7 +51,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 5
 - [Lunes 7 Nov/Spring Batch](https://docs.google.com/presentation/d/1GP-HHq4ysrBlejpx89rnne62aqOOJb8_q5r2ubHz0_Q/edit?usp=share_link)
-- 📺 [Grabación Lunes 7 Nov]() 
+- 📺 [Grabación Lunes 7 Nov](https://drive.google.com/file/d/1ikfbdmV3E5LiywXGbAHGRI9gOEk9RGoX/view?usp=sharing) 
 - [Martes 8 Nov/ Spring Boot Integraciones](https://docs.google.com/presentation/d/1XOQFOWwlfhyQJqulUCMfzQoTcx65qSpEtSQaABv01wI/edit?usp=share_link)
 - 📺 [Grabación Martes 8 Nov]()
 - [Miércoles 9 Nov/Design Patterns I](https://docs.google.com/presentation/d/1xkwhEKALvJvCjfpmMxpJiZJftQlc2-3jVThj99pp5Jo/edit?usp=share_link)
