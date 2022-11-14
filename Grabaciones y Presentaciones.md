@@ -63,7 +63,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 6
 - [Lunes 14 Nov/JUnit](https://drive.google.com/file/d/159ZT0FS7V88paCzJjmomWDqLk7LZLhz1/view?usp=sharing)
-- 📺 [Grabación Lunes 14 Nov]()
+- 📺 [Grabación Lunes 14 Nov](https://drive.google.com/file/d/1qVdo0LCOrGRWMP5zv86-JIdJeeXJpnJa/view?usp=sharing)
 - [Martes 15 Nov/MOckito](https://drive.google.com/file/d/1wXzUq2suCgYFt5TRv4Y7D7Aln8zzTM2g/view?usp=sharing)
 - 📺 [Grabación Martes 15 Nov]()
 - [Miércoles 16 Nov/Pruebas en SpringBoot](https://drive.google.com/file/d/194g_nCNNFevOi2PiJbxFmN5mqrGCkhSr/view?usp=sharing)
