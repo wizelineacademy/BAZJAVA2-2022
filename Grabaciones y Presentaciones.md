@@ -62,14 +62,14 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Viernes 11 Nov](https://drive.google.com/file/d/1OwNXzlmQhBEYv_IRrWio3QkFZfndmFqu/view?usp=sharing)
 
 # Semana 6
-- [Lunes 14 Nov/](https://drive.google.com/file/d/159ZT0FS7V88paCzJjmomWDqLk7LZLhz1/view?usp=sharing)
+- [Lunes 14 Nov/JUnit](https://drive.google.com/file/d/159ZT0FS7V88paCzJjmomWDqLk7LZLhz1/view?usp=sharing)
 - 📺 [Grabación Lunes 14 Nov]()
-- [Martes 15 Nov/](https://drive.google.com/file/d/1wXzUq2suCgYFt5TRv4Y7D7Aln8zzTM2g/view?usp=sharing)
+- [Martes 15 Nov/MOckito](https://drive.google.com/file/d/1wXzUq2suCgYFt5TRv4Y7D7Aln8zzTM2g/view?usp=sharing)
 - 📺 [Grabación Martes 15 Nov]()
-- [Miércoles 16 Nov/](https://drive.google.com/file/d/194g_nCNNFevOi2PiJbxFmN5mqrGCkhSr/view?usp=sharing)
+- [Miércoles 16 Nov/Pruebas en SpringBoot](https://drive.google.com/file/d/194g_nCNNFevOi2PiJbxFmN5mqrGCkhSr/view?usp=sharing)
 - 📺 [Grabación Miércoles 16 Nov]()
-- [Jueves 17 Nov/](https://drive.google.com/file/d/194g_nCNNFevOi2PiJbxFmN5mqrGCkhSr/view?usp=sharing)
+- [Jueves 17 Nov/Pruebas en SpringBoot](https://drive.google.com/file/d/194g_nCNNFevOi2PiJbxFmN5mqrGCkhSr/view?usp=sharing)
 - 📺 [Grabación Jueves 17 Nov]()
--  [Viernes 18 Nov/](https://drive.google.com/file/d/18hyG9dm8JkN6xsVsymy3_NEcgyMGTGC0/view?usp=sharing)
+-  [Viernes 18 Nov/CObertura de código](https://drive.google.com/file/d/18hyG9dm8JkN6xsVsymy3_NEcgyMGTGC0/view?usp=sharing)
 - 📺 [Grabación Viernes 18 Nov]()
 
