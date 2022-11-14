@@ -70,6 +70,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Miércoles 16 Nov]()
 - [Jueves 17 Nov/Pruebas en SpringBoot](https://drive.google.com/file/d/194g_nCNNFevOi2PiJbxFmN5mqrGCkhSr/view?usp=sharing)
 - 📺 [Grabación Jueves 17 Nov]()
--  [Viernes 18 Nov/CObertura de código](https://drive.google.com/file/d/18hyG9dm8JkN6xsVsymy3_NEcgyMGTGC0/view?usp=sharing)
+-  [Viernes 18 Nov/Cobertura de código](https://drive.google.com/file/d/18hyG9dm8JkN6xsVsymy3_NEcgyMGTGC0/view?usp=sharing)
 - 📺 [Grabación Viernes 18 Nov]()
 
