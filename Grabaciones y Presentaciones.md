@@ -67,7 +67,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 15 Nov/MOckito](https://drive.google.com/file/d/1wXzUq2suCgYFt5TRv4Y7D7Aln8zzTM2g/view?usp=sharing)
 - 📺 [Grabación Martes 15 Nov](https://drive.google.com/file/d/1N4sdQl92gLHRPFOyydroQoNIL3D0BZzB/view?usp=sharing)
 - [Miércoles 16 Nov/Pruebas en SpringBoot](https://drive.google.com/file/d/194g_nCNNFevOi2PiJbxFmN5mqrGCkhSr/view?usp=sharing)
-- 📺 [Grabación Miércoles 16 Nov]()
+- 📺 [Grabación Miércoles 16 Nov](https://drive.google.com/file/d/1US1ueDPwzZ4ftGoD26OagmYP8An1hb7S/view?usp=sharing)
 - [Jueves 17 Nov/Pruebas en SpringBoot](https://drive.google.com/file/d/194g_nCNNFevOi2PiJbxFmN5mqrGCkhSr/view?usp=sharing)
 - 📺 [Grabación Jueves 17 Nov]()
 -  [Viernes 18 Nov/Cobertura de código](https://drive.google.com/file/d/18hyG9dm8JkN6xsVsymy3_NEcgyMGTGC0/view?usp=sharing)
